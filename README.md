@@ -15,9 +15,9 @@ source venv/bin/activate
 pip install -r requerements.txt
 
 6. Создать в проекте файл congig.py и прописать в него три аргумента: \
-TOKEN = "сюда вписать токен своего бота"
-MY_ID = сюда вписать свой ID в телеграме
-DB_FILENAME = 'botuploads.db'
+TOKEN = "сюда вписать токен своего бота" \
+MY_ID = сюда вписать свой ID в телеграме \
+DB_FILENAME = 'botuploads.db' \
 
 7. Запустить бота \
 python bot_lesson_2.py (отправка медиафайлов, шрифты и эмоджи)\
