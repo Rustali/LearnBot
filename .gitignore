@@ -1,0 +1,5 @@
+venv
+.idea
+botuploads.db
+__pycache__
+config.py
